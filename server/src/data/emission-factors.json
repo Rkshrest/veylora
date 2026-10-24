@@ -1,0 +1,13 @@
+{
+  "datasetName": "Veylora local demonstration factors",
+  "version": "1.0.0",
+  "factors": [
+    {
+      "id": "general-edible-food-rescue",
+      "value": 2.5,
+      "unit": "kg CO2e per kg food rescued",
+      "basis": "Simplified project planning assumption for demonstration only.",
+      "source": "Local Veylora assumption; not a measured dataset or published life-cycle assessment."
+    }
+  ]
+}
