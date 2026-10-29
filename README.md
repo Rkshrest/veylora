@@ -2,6 +2,8 @@
 
 **Recover value. Reveal impact.** Veylora is a food rescue platform built with React, Vite, Express, MongoDB, and Mongoose.
 
+RECORDING: https://drive.google.com/file/d/1nC0PO7bOA1wYz9nQjcPHIR9uXs-F_4Vu/view?usp=sharing
+
 ## What is included
 
 - Public landing page with mission, workflow, SDG context, and persisted impact totals.
